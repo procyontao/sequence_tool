@@ -6,6 +6,8 @@ For quality of life.
 ## How to use
 For windows user, download exe file and double click. Or "python main.py" 
 
+If Microsoft protect system block this executable from running, choose "more info" and "run anyway". This executable is harmless. 
+
 ## Example 1: select sequence range
 The input sequence does not needed to be formated. This helps specifing sequence for alphafold prediction. 
 
