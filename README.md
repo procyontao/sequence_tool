@@ -8,12 +8,15 @@ For windows user, download exe file and double click. Or "python main.py"
 
 ## Example 1: select sequence range
 The input sequence does not needed to be formated. This helps specifing sequence for alphafold prediction. 
+
 ![select](https://github.com/procyontao/sequence_tool/blob/main/images/select.PNG?raw=true)
 
 ## Example 2: format sequence
 Looks prettier.
+
 ![format](https://github.com/procyontao/sequence_tool/blob/main/images/format.PNG?raw=true)
 
 ## Example 3: search for sequence
 Looking for query sequence in the input sequence
+
 ![search](https://github.com/procyontao/sequence_tool/blob/main/images/search.PNG?raw=true)
